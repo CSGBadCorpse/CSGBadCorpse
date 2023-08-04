@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
  很高兴遇见你，请多指教
 
-- 我是一名 Java 工程师
-- 欢迎关注我的itch.io主页
-- B站账号：GOD555
+- 我是一名 独立游戏 制作人
+- 欢迎关注我的itch.io主页 https://god555.itch.io/
+- B站账号：酷毙甲壳虫 UID:14236454
 
 [![CSGBadCorpse github stats](https://github-readme-stats.vercel.app/api?username=CSGBadCorpse)](//www.tianheyu.top)
