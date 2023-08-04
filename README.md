@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 - B站账号：酷毙甲壳虫 UID:14236454
 
 [![CSGBadCorpse github stats](https://github-readme-stats.vercel.app/api?username=CSGBadCorpse)](//www.tianheyu.top)
+![](https://raw.githubusercontent.com/CSGBadCorpse/CSGBadCorpse/main/assets/github-contribution-grid-snake.svg)
