@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 你好  
+
+ 很高兴遇见你，请多指教
+
+- 我是一名 Java 工程师
+- 欢迎关注我的itch.io主页
+- B站账号：GOD555
+
+[![CSGBadCorpse github stats](https://github-readme-stats.vercel.app/api?username=CSGBadCorpse)](//www.tianheyu.top)
