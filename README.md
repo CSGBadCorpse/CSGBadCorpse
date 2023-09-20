@@ -30,7 +30,9 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CSGBadCorpse/CSGBadCorpse/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CSGBadCorpse/CSGBadCorpse/output/github-contribution-grid-snake.svg">
 </picture>
+
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 
