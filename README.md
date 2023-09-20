@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 我是一名 独立游戏 制作人
 - 欢迎关注我的itch.io主页 https://god555.itch.io/
-- B站账号：酷毙甲壳虫 <a href="https://space.bilibili.com/14236454?spm_id_from=333.337.0.0" target="_blank" title="bilibili"></a>
+- B站账号：酷毙甲壳虫 <a href="https://space.bilibili.com/14236454?spm_id_from=333.337.0.0" target="_blank">bilibili</a>
 
 [![CSGBadCorpse github stats](https://github-readme-stats.vercel.app/api?username=CSGBadCorpse&show_icons=true&theme=tokyonight)](//www.tianheyu.top)
 <picture>
