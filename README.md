@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 欢迎关注我的itch.io主页 https://god555.itch.io/
 - B站账号：酷毙甲壳虫 UID:14236454
 
-[![CSGBadCorpse github stats](https://github-readme-stats.vercel.app/api?username=CSGBadCorpse)](//www.tianheyu.top)
+[![CSGBadCorpse github stats](https://github-readme-stats.vercel.app/api?username=CSGBadCorpse&show_icons=true&theme=tokyonight)](//www.tianheyu.top)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CSGBadCorpse/CSGBadCorpse/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CSGBadCorpse/CSGBadCorpse/output/github-contribution-grid-snake.svg">
